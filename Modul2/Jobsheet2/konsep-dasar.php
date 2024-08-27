@@ -15,6 +15,6 @@ class Mahasiswa {
     }
 }
 
-$mahasiswa1 = new Mahasiswa("Andi Prasetyo", "123456", "Teknik Informatika");
+$mahasiswa1 = new Mahasiswa("Dendi", "123456", "Teknik Informatika");
 echo $mahasiswa1->tampilkanData();
 ?>

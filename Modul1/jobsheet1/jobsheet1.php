@@ -23,7 +23,7 @@ class Mahasiswa {
     }
 }
 
-$mahasiswa1 = new Mahasiswa("Andi Prasetyo", "123456", "Teknik Informatika");
+$mahasiswa1 = new Mahasiswa("Mamat Alkatiri", "123456", "Teknik Informatika");
 echo $mahasiswa1->tampilkanData();
 echo "<hr>";
 $mahasiswa1->updateJurusan("Sistem Informasi");

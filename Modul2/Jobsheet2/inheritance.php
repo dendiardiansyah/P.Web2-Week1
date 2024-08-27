@@ -24,7 +24,7 @@ class Dosen extends Pengguna {
     }
 }
 
-$dosen1 = new Dosen("Andi Prasetyo", "Pemrograman Web");
+$dosen1 = new Dosen("Bobon", "Pemrograman Web");
 echo $dosen1->getNama() ."<br>";
 echo $dosen1->getMatakuliah(); 
 ?>
